@@ -285,8 +285,10 @@ ul p{
 }
 
 .pages{
-    padding-top: 25px; 
-    
+    padding-top: 25px;     
+}
+.pages a{
+    padding: 5px;
 }
 .copyright{
     padding-top: 5px;
